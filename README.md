@@ -1,6 +1,3 @@
-
-
--- Historia 3 --
 Utilizando la siguiente ruta:
 localhost:3000/api/news
 Se obtienen los últimos 50 tweets
